@@ -36,7 +36,7 @@
 ---
 
 ## LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/DoyalSaj?theme=dark&font=Noto%20Sans%20Osage)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DoyalSaji?theme=dark&font=Noto%20Sans%20Osage&ext=contest)
 
 ---
 ## 🌍 Let's Connect!  
